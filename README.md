@@ -41,7 +41,7 @@ Challenge focused on enhancing skills in ReactJS, React Query, React Hook Form a
   #### React Hook Form: 
   - useForm: Implementation of input registration for the image registration form, including input validations and error handling.
 #### Chakra UI
-  - Modal e Toast
+  - Modal and Toast
 
 ## 🔄 Modified Files
 
